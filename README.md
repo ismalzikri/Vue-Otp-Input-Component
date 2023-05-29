@@ -7,7 +7,7 @@ the UI team challenges me to build the OTP verification experience look differen
 
 And I thought you can reuse the logic & improve with your own version.
 
-you can find another version build using Vue with the same logic.
+you can find another version build using React with the same logic.
 https://github.com/Laravel007/React-Otp-Input-Component 
 
 # Feature :
