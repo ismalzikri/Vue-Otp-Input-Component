@@ -28,7 +28,7 @@ function onChange(value) {
         <a href="https://www.tiket.com/login?ref=https://www.tiket.com/">
           Tiket.com OTP Experience
         </a>
-        <a href="https://github.com/Laravel007/React-Otp-Input-Component"> Ismal Zikri </a>
+        <a href="https://github.com/Laravel007/Vue-Otp-Input-Component"> Ismal Zikri </a>
       </div>
     </footer>
   </div>
